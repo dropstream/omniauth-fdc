@@ -1,5 +1,5 @@
 require "bundler/setup"
-require "omniauth/fdc"
+require "omniauth-fdc"
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure
