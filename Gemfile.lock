@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    omniauth-fdc (0.1.0)
+    omniauth-fdc (0.1.1)
       omniauth-oauth2
 
 GEM
@@ -27,7 +27,7 @@ GEM
     omniauth-oauth2 (1.6.0)
       oauth2 (~> 1.1)
       omniauth (~> 1.9)
-    rack (2.2.2)
+    rack (2.2.3)
     rake (10.5.0)
     rspec (3.8.0)
       rspec-core (~> 3.8.0)
