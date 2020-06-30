@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    omniauth-fdc (0.1.1)
+    omniauth-fdc (0.1.2)
       omniauth-oauth2
 
 GEM
